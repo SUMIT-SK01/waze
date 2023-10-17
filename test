@@ -1,0 +1,8 @@
+Title of the project is Turflix, It is a software application designed for booking nearby turfs, catering to sports enthusiasts. It provides a user-friendly web interface for users to discover and reserve sports facilities in their vicinity. Users input location preferences, desired sport, and booking details. The application displays a list of nearby turfs that match the user's criteria, allowing them to select and book a turf. It also generates booking confirmations. 
+Tech Stack:
+        Front-end Development: HTML, CSS, JavaScript (JS)
+        Database Management: MySQL and MongoDB
+        Version Control: Using Git for collaborative development
+
+    Main Challenges:
+        Creating an attractive and intuitive interface. Rigorous testing to eliminate bugs and glitches. Preparing the application for future growth and increased user demand.
